@@ -1,3 +1,7 @@
+# About This Fork
+This repository is a fork of the [DDI-KG-SS-GNN](https://github.com/abdallahade1/DDI-KG-SS-GNN) project, developed collaboratively by a team I was part of.
+
+
 # Drug-Drug Interaction Prediction with KG-SS-GNN
 
 **[Live Streamlit Demo](https://huggingface.co/spaces/AbdulrahmanMahmoud007/DDI-KG-SS-GNN) | [Notebook on Kaggle](https://www.kaggle.com/code/abdallahadelabdallah/ddi-prediction)**
